@@ -24,8 +24,8 @@ To set up the project locally, follow these steps:
 
 1.  **Clone the repository**:
     ```bash
-    git clone https://github.com/yuraberez/appium-mobile-e2e-tests-template.git
-    cd appium-mobile-e2e-tests-template
+    git clone https://github.com/yuraberez/appium-e2e-template.git
+    cd appium-e2e-template
     ```
 
 2.  **Install dependencies**:
