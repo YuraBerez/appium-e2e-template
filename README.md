@@ -100,8 +100,3 @@ You can customize test behavior using various environment variables:
 *   **`src/core/screens/`**: Contains screen object definitions, representing different screens of the application.
 *   **`src/core/components/`**: Contains reusable component object definitions.
 *   **`src/config/`**: Contains WebdriverIO configuration files for different platforms and environments.
-
-## Demo
-```URL
-https://drive.google.com/drive/folders/1jlZcdjvWM92GmYUavVeAZybvhyXYF1_I
-```
